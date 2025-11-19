@@ -1,0 +1,8 @@
+{
+  "name": "m.9r.a",
+  "description": "تطبيق تواصل اجتماعي احترافي شبيه بانستغرام - A professional Instagram-like social app.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
